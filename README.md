@@ -1,2 +1,2 @@
 ### project images.
-![](https://imgur.com/a/DCki8Zi.jpg)
+![](https://imgur.com/a/DCki8Zi)
